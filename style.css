@@ -19,15 +19,14 @@
 .card{
     width: 220px;
     height: 300px;
-    border-radius: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     overflow: hidden;
     margin: 20px;
     float: left;
     text-align: center;
     transition: all 0.25s;
-    background: linear-gradient(90deg, white, #9090dc);
-}
+    background: rgb(170, 255, 0);
+}   
 
 h1{
     color: white;
